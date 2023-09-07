@@ -1,0 +1,22 @@
+{
+    "name": "o2b3k/humolog",
+    "description": "Humolog API",
+    "license": "MIT",
+    "type": "library",
+    "require": {
+        "php": "^8.1",
+        "guzzlehttp/guzzle": "^7.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "Humolog\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "o2b3k",
+            "role": "Developer"
+        }
+    ],
+    "minimum-stability": "stable"
+}
