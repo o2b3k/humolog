@@ -1,6 +1,6 @@
 <?php
 
-namespace packages\humolog\src\Providers;
+namespace Humolog\Providers;
 
 use Illuminate\Support\ServiceProvider;
 

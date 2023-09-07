@@ -1,8 +1,8 @@
 <?php
 
-namespace packages\humolog\src;
+namespace Humolog;
 
-class HumoLog
+class HumoApi
 {
     public final function info(string $title, string $description): void
     {
